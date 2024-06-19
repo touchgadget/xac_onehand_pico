@@ -1,5 +1,10 @@
 # Xbox Adaptive Controller Flight Joystick Pico Style
 
+**NOTE** XAC firmware released in June 2024 maps the joystick hat switch to the
+XAC dpad. See https://github.com/touchgadget/xac_onehand_controller for details
+on remapping the XAC dpad to the XAC right joystick. This is a simpler
+alternative to this project.
+
 ![Flight stick connected to Xbox Adaptive Controller](./images/system_photo.jpg)
 
 The xac_onehand_pico project connects a USB flight stick such as a Logitech
